@@ -1,6 +1,1 @@
-already fixxed bug 101
-merge with no-ff
-merge fast forward
-It's feature, maybe a bug.
-new branch 
-commit
+master:create a bug
