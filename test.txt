@@ -1,4 +1,4 @@
-bug 101
+fix bug 101
 merge with no-ff
 merge fast forward
 It's feature, maybe a bug.
