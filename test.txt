@@ -1,2 +1,3 @@
+It's feature, not bug.
 new branch 
 commit
