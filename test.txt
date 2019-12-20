@@ -1,1 +1,3 @@
+dev:something unstaged-----if i stop, would you come?
+dev:something uncommit
 master:create a bug
