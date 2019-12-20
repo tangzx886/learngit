@@ -1,3 +1,4 @@
+merge with no-ff
 merge fast forward
 It's feature, maybe a bug.
 new branch 
