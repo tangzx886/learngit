@@ -1,2 +1,3 @@
+it's feature and bug.
 new branch 
 commit
